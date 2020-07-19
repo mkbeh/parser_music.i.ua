@@ -1,0 +1,37 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E203" />
+          <option value="E221" />
+          <option value="E222" />
+          <option value="E127" />
+          <option value="W605" />
+          <option value="E701" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="analysis_words" />
+          <option value="directory_data" />
+          <option value="file_name_regex" />
+          <option value="path" />
+          <option value="data" />
+          <option value="name" />
+          <option value="custom_request" />
+          <option value="table_name_regex" />
+          <option value="column_name_regex" />
+          <option value="field_name_regex" />
+          <option value="rows_limit" />
+          <option value="max_field_size" />
+          <option value="skip_blob" />
+          <option value="max_blob_size" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
